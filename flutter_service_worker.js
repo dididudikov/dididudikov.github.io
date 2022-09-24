@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5d69f6e913e4f6c8075982125e0b703b",
+  "app.js": "1bf9e76784740ac6a0ef4ef8aa317660",
+"assets/AssetManifest.json": "5d69f6e913e4f6c8075982125e0b703b",
 "assets/assets/images/LogoGoPay.png": "f93b45d715694ed91548f56151e343bc",
 "assets/assets/images/midtrans-logo.png": "7d6aed2773f829bc5002b86767f0d401",
 "assets/assets/images/qris-metalarc.jpg": "03aa78212bbd877b279be3fed214809d",
@@ -27,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b98e44b47d0174628adbe3a70f94dafd",
-"/": "b98e44b47d0174628adbe3a70f94dafd",
-"main.dart.js": "557715ea9b18bcf6cfd7d869c72de6dc",
+"index.html": "7e483a7f2d001cc3e9e7cada72552504",
+"/": "7e483a7f2d001cc3e9e7cada72552504",
+"main.dart.js": "111f6bf19008dc55c1854aca8b5bb08a",
 "manifest.json": "7faacbaaecdf56605a3af79a88f13e70",
 "version.json": "cb292393e2df9458916bbfd2c97f5263"
 };
