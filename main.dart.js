@@ -54852,7 +54852,7 @@ A.He.prototype={
 oZ(){var s=0,r=A.J(t.eV),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1
 var $async$oZ=A.K(function(b2,b3){if(b2===1){o=b3
 s=p}while(true)switch(s){case 0:a9=null
-b0="http://devel.metalarc.co.id/qris/"
+b0="http://178.128.80.162/qris/"
 p=4
 a7=t.N
 s=7
